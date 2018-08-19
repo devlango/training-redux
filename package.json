@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "redux": "^4.0.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.0.0-rc.1",
+    "@babel/node": "^7.0.0-rc.1",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-latest": "^6.24.1"
+  }
+}
